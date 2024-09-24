@@ -27,6 +27,7 @@ I'm a **Web Developer** and **UX Designer** from **Ceará, Brazil**. I specializ
 ![My Skills Radar Chart](https://quickchart.io/chart?c=%7Btype%3A%22radar%22%2Cdata%3A%7Blabels%3A%5B%22JavaScript%22%2C%22React%22%2C%22HTML%22%2C%22CSS%22%2C%22Figma%22%5D%2Cdatasets%3A%5B%7Blabel%3A%22Skills%22%2Cdata%3A%5B90%2C95%2C85%2C95%2C90%5D%2CbackgroundColor%3A%22rgba(76%2C175%2C80%2C0.6)%22%2CborderColor%3A%22rgba(76%2C175%2C80%2C1)%22%2CborderWidth%3A2%2CpointBackgroundColor%3A%22rgba(255%2C255%2C255%2C1)%22%2CpointBorderColor%3A%22rgba(76%2C175%2C80%2C1)%22%7D%5D%7D%2Coptions%3A%7Bscales%3A%7B%7DyTicks%3A%7BbeginAtZero%3Atrue%7D%7D%2Cplugins%3A%7D%7D%7D)
 
 
+
 ### Social Media
 <div align="left">
   <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" /></a>
