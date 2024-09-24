@@ -1,5 +1,3 @@
-# -YashinaGomes-.github.io
-
 <h2 align="left">Hi 👋! My name is Yáshina Gomes and I'm a **Web Developer** and **UX Designer** from **Ceará, Brazil**. I specialize in creating user-friendly and visually appealing web applications using **React**. I'm proficient in **HTML**, **CSS**, **JavaScript**, and **Figma**, and I am passionate about combining technology and design to build engaging digital products. When I'm not coding, you can find me exploring new design trends or enjoying nature with my family.</h2>
 
 ###
