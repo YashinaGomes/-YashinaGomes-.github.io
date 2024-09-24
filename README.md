@@ -24,7 +24,7 @@ I'm a **Web Developer** and **UX Designer** from **Ceará, Brazil**. I specializ
 </div>
 
 ### My Skills
-![My Skills Chart](https://quickchart.io/chart?c=%7Btype%3A%22bar%22%2Cdata%3A%7Blabels%3A%5B%22JavaScript%22%2C%22React%22%2C%22HTML%22%2C%22CSS%22%2C%22Figma%22%5D%2Cdatasets%3A%5B%7Blabel%3A%22Skills%22%2Cdata%3A%5B90%2C80%2C85%2C75%2C70%5D%2CbackgroundColor%3A%5B%22%234caf50%22%2C%22%23ff9800%22%2C%22%23f44336%22%2C%22%23e91e63%22%2C%22%2196cc39%22%5D%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Byticks%3A%7BbeginAtZero%3Atrue%7D%7D%7D%7D)
+![My Skills Chart](https://quickchart.io/chart?c=%7Btype%3A%22bar%22%2Cdata%3A%7Blabels%3A%5B%22JavaScript%22%2C%22React%22%2C%22HTML%22%2C%22CSS%22%2C%22Figma%22%5D%2Cdatasets%3A%5B%7Blabel%3A%22Skills%22%2Cdata%3A%5B90%2C80%2C85%2C95%2C90%5D%2CbackgroundColor%3A%5B%22%234caf50%22%2C%22%23ff9800%22%2C%22%23f44336%22%2C%22%23e91e63%22%2C%22%2196cc39%22%5D%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Byticks%3A%7BbeginAtZero%3Atrue%7D%7D%7D%7D)
 
 ### Social Media
 <div align="left">
